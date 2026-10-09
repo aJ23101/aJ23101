@@ -73,11 +73,11 @@ An AI-powered productivity application focused on smarter task planning, organiz
 
 ---
 
-### ⚡ TaskMind
+### 🔎 QueryPilot AI
 
-A productivity-focused application for organizing tasks and improving workflows.
+AI-powered data analysis assistant to upload CSV/Excel datasets, chat with data using natural language, generate SQL queries, and uncover insights.
 
-**Tech Stack:** Python · Web Development
+**Tech Stack:** Python · Streamlit · SQLite ·  Pandas · LLMs 
 
 [🔗 View Repository](https://github.com/aJ23101/Task-Mind-AI)
 
