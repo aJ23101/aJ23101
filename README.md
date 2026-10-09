@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github_banner.png" width="100%" alt="Aditi Joshi — AI Engineering | Backend Development | Full-Stack Applications" />
+<img src="github_banner.png" width="100%" alt="Aditi Joshi — AI Engineering | Backend Development | Full-Stack Applications | Data Analyst" />
 
 
 <br/>
