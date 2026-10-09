@@ -1,22 +1,19 @@
-
 <div align="center">
 
 <img src="github_banner.png" width="100%" alt="Aditi Joshi — AI Engineering | Backend Development | Full-Stack Applications" />
 
-<br/><br/>
 
-<a href="mailto:aditi23101@iiitnr.edu.in">
-  <img src="https://img.shields.io/badge/EMAIL-181D35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/aditi-joshi-071aa9297/">
-  <img src="https://img.shields.io/badge/LINKEDIN-181D35?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/aJ23101">
-  <img src="https://img.shields.io/badge/GITHUB-181D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<br/>
 
-<br/><br/>
+<p align="center">
+<a href="mailto:aditi23101@iiitnr.edu.in"><img src="https://img.shields.io/badge/EMAIL-181D35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/aditi-joshi-071aa9297/"><img src="https://img.shields.io/badge/LINKEDIN-181D35?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/aJ23101"><img src="https://img.shields.io/badge/GITHUB-181D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
+
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -30,6 +27,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
+
+
 
 </div>
 
@@ -103,25 +103,17 @@ A productivity-focused application for organizing tasks and improving workflows.
 
 *Always curious. Forever building.* 🚀
 
-<br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Think-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Build-2563EB?style=flat-square" />
 <img src="https://img.shields.io/badge/Learn-DB2777?style=flat-square" />
 <img src="https://img.shields.io/badge/Repeat-0D9488?style=flat-square" />
-
-<br/><br/>
+</p>
 
 **Thanks for stopping by!** ✨
 
 <i>Let's build something meaningful together.</i>
 
 </div>
-
-
-
-
-
-
 
 
