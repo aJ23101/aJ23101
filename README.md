@@ -1,29 +1,21 @@
 
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Aditi Joshi - AI Engineering, Backend Development and Full-Stack Applications" />
+<img src="banner.png" width="100%" alt="Aditi Joshi — AI Engineering | Backend Development | Full-Stack Applications" />
 
-<br/>
+<br/><br/>
 
 <a href="mailto:aditi23101@iiitnr.edu.in">
   <img src="https://img.shields.io/badge/EMAIL-181D35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/aditi-joshi-071aa9297/">
   <img src="https://img.shields.io/badge/LINKEDIN-181D35?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
+</a>
 <a href="https://github.com/aJ23101">
   <img src="https://img.shields.io/badge/GITHUB-181D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</div>
-
-<br/>
-
-
-
-<div align="center">
-
-## TECH STACK
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -43,29 +35,31 @@
 
 ---
 
-## Profile
+## 👩🏻‍💻 Profile
 
 I'm a final-year B.Tech student at IIIT Naya Raipur, passionate about building AI-powered products, developing intelligent agents, and creating scalable backend and full-stack applications. I enjoy exploring Generative AI, LLMs, and modern technologies to turn ideas into practical, real-world solutions.
 
-## Featured Projects
+---
+
+## 🚀 Featured Projects
 
 ### 🎙️ Voice AI Agent
 
 An AI-powered voice assistant focused on conversational interactions and intelligent responses.
 
-**Tech:** Python · LLMs · Voice AI
+**Tech Stack:** Python · LLMs · Voice AI
 
-[View Repository →](https://github.com/aJ23101/voice-ai-receptionist)
+[🔗 View Repository](https://github.com/aJ23101/voice-ai-receptionist)
 
 ---
 
 ### 🎬 Cinefolio
 
-A movie discovery and tracking platform for exploring films and managing watchlists.
+A movie discovery and tracking platform for exploring films, managing watchlists, and keeping track of your movie journey.
 
-**Tech:** React · TypeScript · Tailwind CSS · Supabase
+**Tech Stack:** React · TypeScript · Tailwind CSS · Supabase
 
-[View Repository →](https://github.com/aJ23101/Cinefolio)
+[🔗 View Repository](https://github.com/aJ23101/Cinefolio)
 
 ---
 
@@ -73,22 +67,19 @@ A movie discovery and tracking platform for exploring films and managing watchli
 
 An AI-powered productivity application focused on smarter task planning, organization, and workflow management.
 
-**Tech:** Python · AI · APIs · Backend Development
+**Tech Stack:** AI · APIs · Backend Development
 
-[View Repository →](https://github.com/aJ23101)
+[🔗 View Repository](https://github.com/aJ23101)
 
 ---
 
 ### ⚡ TaskMind
 
-A productivity-focused project for organizing tasks and improving workflows.
+A productivity-focused application for organizing tasks and improving workflows.
 
-**Tech:** Python · Web Development
+**Tech Stack:** Python · Web Development
 
-[View Repository →](https://github.com/aJ23101/Task-Mind-AI)
-
----
-
+[🔗 View Repository](https://github.com/aJ23101/Task-Mind-AI)
 
 ---
 
@@ -97,24 +88,20 @@ A productivity-focused project for organizing tasks and improving workflows.
 | Category | Technologies |
 |:---|:---|
 | **Languages** | Python, C++, JavaScript, SQL |
+| **Frontend** | React, TypeScript, Tailwind CSS, HTML, CSS |
 | **Backend** | FastAPI, Node.js, Express, REST APIs |
-| **Frontend** | React, TypeScript, Tailwind CSS |
-| **Databases** | PostgreSQL, SQLite, Supabase |
-| **AI & LLMs** | Generative AI, LLMs, LangChain, RAG, AI Agents |
-| **Data Analysis** | Pandas, NumPy, Streamlit |
-| **Cloud & Tools** | Docker, Git, GitHub, VS Code |
+| **AI & Generative AI** | LLMs, Generative AI, LangChain, RAG, AI Agents |
+| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn, Streamlit |
+| **Databases** | PostgreSQL, SQLite, Supabase, MongoDB |
+| **Tools & Platforms** | Git, GitHub, Docker, VS Code, Jupyter Notebook |
 
 ---
-
-
----
-
 
 <div align="center">
 
 ### ✦ Turning curiosity into code, and ideas into impact. ✦
 
-*Always curious. Forever building.* 💻
+*Always curious. Forever building.* 🚀
 
 <br/>
 
@@ -133,17 +120,8 @@ A productivity-focused project for organizing tasks and improving workflows.
 
 
 
-<!--
-**aJ23101/aJ23101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
